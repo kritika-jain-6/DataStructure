@@ -1,0 +1,10 @@
+Array is a collection of items which store in continuous memory allocation.
+type of operation:
+1.traversal- in which we traverse through the element
+2.insertion- in which we insert the new element
+3.deletion- in which we delete the element in the array 
+4.sorting- in which we manipulate the elements in the array
+5.searching- in which we search the element 
+
+
+
